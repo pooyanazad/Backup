@@ -1,11 +1,7 @@
 #!/bin/bash
 
 # Configuration
-SOURCE_DIR="/path/to/source"
-BACKUP_DIR="/path/to/backup"
-LOG_FILE="/path/to/logfile.log"
-# Log file
-log_file="/path/to/log/backup_log_$(date +'%Y%m%d_%H%M%S').log"
+./config.sh
 
 # Function to log messages
 log() {
