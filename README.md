@@ -9,4 +9,4 @@ You should change below information with your requests in "config.sh" file</br>
 </br>
 Dont forgot to change permition: chmod +x backup.sh</br>
 You can access find me: Pooyan.azadparvar@gmail.com </br>
-***This application is my daily backup script***
+**This application is my daily backup script**
