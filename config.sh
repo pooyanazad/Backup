@@ -1,6 +1,4 @@
 # config.sh
-
-# Configuration variables
 backup_source="/mnt/source" #your source
 backup_destination="/mnt/dest" #your destination
 log_file="/mnt/log/backup_log_$(date +'%Y%m%d_%H%M%S').log" #your log folder
