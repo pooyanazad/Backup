@@ -26,6 +26,7 @@ perform_backup() {
         tar -czf "$backup_destination/$backup_filename" -C "$backup_source" .
 
         # Check if the backup was successful
+        # Use this function to send email
         if [ $? -eq 0 ]; then
             log "Backup completed successfully: $backup_filename"
         else
