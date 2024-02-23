@@ -11,10 +11,11 @@ You should change below information with your requests in "config.sh" file</br>
 - set your backup log path
 - set your backup saving days
 - set your backup compressing level</br>
-</br>
+
 ```
 ./backup.sh or use it on crontab like me : 5 0 * * * /mnt/backup.sh
 ```
+
 This application is my production daily backup script and it will keep your last 5 days backup also added some function to keep every 15th of month backup for 2 years as a monthly backup</br>
 </br>
 I want to add some fetures to this script with your help and idea:</br>
