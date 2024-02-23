@@ -9,6 +9,8 @@ You should change below information with your requests in "config.sh" file</br>
 </br>
 Dont forgot to change permition: chmod +x backup.sh</br>
 This application is my production daily backup script and it will keep your last 5 days backup also added some function to keep every 15th of month backup for 2 years as a monthly backup</br>
+</br>
+
 I want to add some option to this script with your help:</br>
   _ Add email part to sent notification if process goes fail</br>
   _ You can share your idea!</br>
