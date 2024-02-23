@@ -12,7 +12,8 @@ This application is my production daily backup script and it will keep your last
 </br>
 
 I want to add some option to this script with your help:</br>
-  _ Add email part to sent notification if process goes fail</br>
-  _ You can share your idea!</br>
+-
+- Add email part to sent notification if process goes fail
+- You can share your idea!</br>
 </br>
 You can find me: Pooyan.azadparvar@gmail.com </br>
