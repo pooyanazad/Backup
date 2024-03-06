@@ -20,7 +20,7 @@ This application is my production daily backup script and it will keep your last
 </br>
 I want to add some fetures to this script with your help and idea:</br>
 
-- Add email part to sent notification if process goes fail (we can use and API or some linux package and send directly)
+- Add email part to sent notification if process goes fail (we can use and API or some linux package and send directly), I defined that as an issue and you can help to solve it.
 - You can share your idea!</br>
 </br>
 You can find me: Pooyan.azadparvar@gmail.com </br>
